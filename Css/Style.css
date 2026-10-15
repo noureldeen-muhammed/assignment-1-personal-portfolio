@@ -1,0 +1,124 @@
+body {
+    background-color: #c5d1e2;
+}
+hr{
+    color:#87ceeb
+}
+div.section-1 {
+    background-color: #153969;
+    padding: 20px 20px;
+}
+
+.container {
+    margin: 15px auto;
+    width: 80%;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.text-blue2 {
+    color: #2864a8;
+}
+
+.text-white {
+    color: white;
+}
+
+.button-section-1 {
+    border: unset;
+    border: 3px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    margin: 0 4px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+div.section-2 img {
+    width: 10%;
+    border-radius: 50%;
+}
+
+.text-blue {
+    color: #153969;
+}
+
+.button-section-2 {
+    border: unset;
+    border: 10px solid #153969;
+    border-radius: 5px;
+    background: #153969;
+    color: white;
+    cursor: pointer;
+}
+
+.float {
+    float: left;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+div.section-2 {
+    background-color: white;
+    padding: 20px 20px;
+}
+
+div.section-2 p {
+    margin: 0 15px;
+}
+
+div.section-3 {
+    background-color: white;
+    padding: 20px 20px;
+}
+
+div.section-3-1 {
+    border-radius: 5px;
+    width: 25%;
+}
+
+div.section-4 img {
+    width:5% ;
+    border-radius: 2px;
+}
+div.section-4{
+    background-color: white;
+    padding:20px 20px ;
+}
+div.section-4 div.section-4-1{
+    background-color:#c5d1e2;
+    padding: 20px;
+    border-radius: 20px;
+    border-left: #153969 5px solid;
+}
+div.section-4 div.section-4-2{
+    margin:10px 0 ;
+    background-color: #c5d1e2;
+    padding: 20px;
+    border-radius: 20px;
+    border-left: #153969 5px solid;
+}
+div.section-5{
+    background-color: #153969;
+    padding:20px 20px;
+}
+.button-section-5{
+    border: unset;
+    border: 3px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    margin: 0 4px;
+    padding: 10px;
+    cursor: pointer;
+}
+div.section-6{
+    background-color: #071b35;
+    padding: 20px 20px ;
+}
